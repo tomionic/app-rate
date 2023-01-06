@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">rating</string>
+    <string name="title_activity_main">rating</string>
+    <string name="package_name">ionic.rating</string>
+    <string name="custom_url_scheme">ionic.rating</string>
+</resources>
